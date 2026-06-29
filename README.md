@@ -11,9 +11,9 @@
 ###
 - 🔭 I’m currently working on **Frontend and Backend**
   
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+- 🌱 I’m currently learning **Spring Boot, Angular, LLM** 
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL,Python**  
 
 - 📫 How to reach me **1sanjanask@gmail.com**
 
