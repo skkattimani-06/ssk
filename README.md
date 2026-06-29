@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
 
-- 📫 How to reach me **1sanjanask@gmail.com@gmail.com**
+- 📫 How to reach me **1sanjanask@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
