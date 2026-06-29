@@ -1,4 +1,4 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+
 
 <h1 align="center">Hi 👋, I'm Sanjana S K</h1>
 <h3 align="center">A passionate developer from India</h3>
